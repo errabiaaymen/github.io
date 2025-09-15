@@ -17,10 +17,10 @@ Bienvenue sur mon portfolio professionnel, construit en **HTML** et **CSS**. Ce 
 
 - **Email:** errabia.aymen@gmail.com
 - **Téléphone:** 07 51 57 60 20
-- **Portfolio live:** https://votrepseudo.github.io
+- **Portfolio live:** https://errabiaaymen.github.io
 - **Localisation:** Paris, France
 
 ## 🌐 Liens
 
-- [LinkedIn](https://www.linkedin.com/in/aymen-errabia-0aa239335/))
+- [LinkedIn](https://www.linkedin.com/in/aymen-errabia-0aa239335/)
 - [Projet GitHub](https://github.com/errabiaaymen/github.io)
